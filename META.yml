@@ -1,0 +1,14 @@
+name: WWW-Dict-MOE
+version: 0.02
+abstract: MOE Chinese Word Lookup Agent
+author: Cheng-Lung Sung <clsung@dragon2.net>
+license: perl
+distribution_type: module
+requires:
+  perl: 5.6.1
+  LWP::UserAgent: 0
+  HTML::LinkExtractor: 0
+no_index:
+  directory:
+    - inc
+generated_by: Module::Install version 0.36

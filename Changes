@@ -1,0 +1,7 @@
+v0.02	[September 25, 2004]
+
+! use inc::Module::Install instead of ExtUtils::MakeMaker.
+
+v0.01	2004-07-25 
+
+- First Release
